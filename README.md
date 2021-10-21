@@ -12,4 +12,4 @@ Run the jupyter file in this repo to see the analysis I made. Here's a list of a
 6. scipy.stats
 7. basic_stats
 
-basic_stats is a module I made for onw of my statistic courses, it heavily relies on the scipy.stats module. You don't really need to use my functions, I just made them to be more readable to me.
+basic_stats is a module I made for one of my statistic courses, it heavily relies on the scipy.stats module. You don't really need to use my functions, I just made them to be more readable to me.
